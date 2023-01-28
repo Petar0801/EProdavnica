@@ -1,0 +1,17 @@
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.csproj.AssemblyReference.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.AssemblyInfo.cs
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\InfrasctureClassLib.deps.json
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\InfrasctureClassLib.runtimeconfig.json
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\InfrasctureClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\InfrasctureClassLib.pdb
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\CoreClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\bin\Debug\net6.0\CoreClassLib.pdb
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.csproj.CopyComplete
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\refint\InfrasctureClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.pdb
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\InfrasctureClassLib.genruntimeconfig.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\InfrasctureClassLib\obj\Debug\net6.0\ref\InfrasctureClassLib.dll

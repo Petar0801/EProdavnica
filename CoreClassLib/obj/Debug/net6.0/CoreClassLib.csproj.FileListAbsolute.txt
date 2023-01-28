@@ -1,0 +1,12 @@
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\bin\Debug\net6.0\CoreClassLib.deps.json
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\bin\Debug\net6.0\CoreClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\bin\Debug\net6.0\CoreClassLib.pdb
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.csproj.AssemblyReference.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.AssemblyInfo.cs
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\refint\CoreClassLib.dll
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\CoreClassLib.pdb
+C:\Users\Petar\source\repos\EProdavnicaAPISolution\CoreClassLib\obj\Debug\net6.0\ref\CoreClassLib.dll
